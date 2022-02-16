@@ -1,0 +1,23 @@
+Vivado Simulator 2019.2
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2019.2/bin/unwrapped/win64.o/xelab.exe -wto 3fdfd5f518aa45ada741ee89859eea82 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot Testbench_behav xil_defaultlib.Testbench -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling architecture behavioral of entity xil_defaultlib.pulseGenerator [pulsegenerator_default]
+Compiling architecture behavioral of entity xil_defaultlib.Sync_Gen [sync_gen_default]
+Compiling architecture behavioral of entity xil_defaultlib.Debouncer [debouncer_default]
+Compiling architecture behavioral of entity xil_defaultlib.pulseGenerator [\pulseGenerator(maxcnt=500000)\]
+Compiling architecture behavioral of entity xil_defaultlib.pulseGenerator [\pulseGenerator(maxcnt=100000)\]
+Compiling architecture behavior of entity xil_defaultlib.seg7_hex [seg7_hex_default]
+Compiling architecture behavioral of entity xil_defaultlib.seg7_controller [seg7_controller_default]
+Compiling architecture behavioral of entity xil_defaultlib.Proj3_top [proj3_top_default]
+Compiling architecture behavioral of entity xil_defaultlib.testbench
+Built simulation snapshot Testbench_behav

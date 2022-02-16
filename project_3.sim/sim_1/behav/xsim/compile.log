@@ -1,0 +1,14 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/wemid/projects/project_3/project_3.srcs/sources_1/new/Debouncer.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Debouncer'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/wemid/projects/project_3/project_3.srcs/sources_1/new/pulseGenerator.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'pulseGenerator'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/wemid/projects/project_3/project_3.srcs/sources_1/new/Sync_Gen.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Sync_Gen'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/wemid/projects/project_3/project_3.srcs/sources_1/new/seg7_hex.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'seg7_hex'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/wemid/projects/project_3/project_3.srcs/sources_1/new/seg7_controller.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'seg7_controller'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/wemid/projects/project_3/project_3.srcs/sources_1/new/Proj3_top.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Proj3_top'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/wemid/projects/project_3/project_3.srcs/sources_1/new/Testbench.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Testbench'

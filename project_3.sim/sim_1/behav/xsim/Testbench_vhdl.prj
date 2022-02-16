@@ -1,0 +1,12 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../project_3.srcs/sources_1/new/Debouncer.vhd" \
+"../../../../project_3.srcs/sources_1/new/pulseGenerator.vhd" \
+"../../../../project_3.srcs/sources_1/new/Sync_Gen.vhd" \
+"../../../../project_3.srcs/sources_1/new/seg7_hex.vhd" \
+"../../../../project_3.srcs/sources_1/new/seg7_controller.vhd" \
+"../../../../project_3.srcs/sources_1/new/Proj3_top.vhd" \
+"../../../../project_3.srcs/sources_1/new/Testbench.vhd" \
+
+# Do not sort compile order
+nosort
